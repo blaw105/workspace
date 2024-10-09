@@ -54,30 +54,3 @@ public class ParallelLines extends JPanel
     w.setVisible(true);
   }
 }
-
-
-// Ok these are random comments
-// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
-// Ok these are random comments
